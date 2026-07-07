@@ -1,0 +1,8 @@
+﻿node_modules
+dist
+.env
+.env.local
+source-models/*
+!.gitkeep
+public/models/.gitkeep
+public/draco/.gitkeep
